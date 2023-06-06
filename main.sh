@@ -14,4 +14,4 @@ tar -zxvf "PanIndex.tar.gz" --overwrite
 
 rm "PanIndex.tar.gz"
 
-./PanIndex-linux-amd64
+chmod +x PanIndex-linux-amd64 && ./PanIndex-linux-amd64
