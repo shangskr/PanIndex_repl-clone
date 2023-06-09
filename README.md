@@ -1,5 +1,5 @@
-# PanIndex_repl
-Deploy PanIndex on Replit.
+# [PanIndex](https://github.com/px-org/PanIndex)_repl
+Deploy [PanIndex](https://docs.noki.icu/#/README) on [Replit](https://replit.com).
 ## usage
 Blank Repl
 ```bash
