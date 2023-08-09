@@ -1,6 +1,6 @@
 # [PanIndex](https://github.com/px-org/PanIndex)_repl
 Deploy [PanIndex](https://docs.noki.icu/#/README) on [Replit](https://replit.com).
-
+部署方式用replit从github导入仓库：仓库名称：shangskr/PanIndex_repl
 后台管理地址：默认为/admin
 首页账号切换
 默认账号：首页将显示默认账号，或顺序第一位的账号，home按钮切换
